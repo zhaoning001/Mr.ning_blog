@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                ''
+url:                'https://zhaoning001.github.io/Mr.ning_blog/'
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -69,7 +69,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: ;
+    base_url: /Mr.ning_blog;
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
