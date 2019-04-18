@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                ''
-url:                'https://zhaoning001.github.io'  #上传时候用的
+url:                'https://zhaoning001.github.io/Mr.ning_blog'  #上传时候用的
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -71,7 +71,7 @@ gems:
 
 jekyll-mentions:
     # base_url: ;
-    base_url: /Mr.ning_blog;  #上传时候用的
+    base_url: ;  #上传时候用的
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
