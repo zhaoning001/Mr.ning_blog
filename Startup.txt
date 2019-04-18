@@ -1,0 +1,11 @@
+1. 安装 jekyll ：gem install jekyll
+
+2. cmd 定位到文件：cd ...
+
+3. 安装bundle : gem install bundle  
+
+4. 启动jekll: bundle exec jekyll serves  （实时监听源文件夹：bundle exec jekyll serves --watch ）
+
+
+
+Ps： 监听源文件夹过程中，如果修改_config.yml 配置文件，必须要bundle exec jekyll build 一下才能生效
