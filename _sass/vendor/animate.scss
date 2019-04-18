@@ -192,30 +192,30 @@
   animation-name: fadeOut;
 }
 
-@-webkit-keyframes rotateIn {
-  from {
-    -webkit-transform-origin: center;
-    transform-origin: center;
-    -webkit-transform: rotate3d(0, 0, 1, -200deg);
-    transform: rotate3d(0, 0, 1, -200deg);
-    opacity: 0;
-  }
+// @-webkit-keyframes rotateIn {
+//   from {
+//     -webkit-transform-origin: center;
+//     transform-origin: center;
+//     -webkit-transform: rotate3d(0, 0, 1, -200deg);
+//     transform: rotate3d(0, 0, 1, -200deg);
+//     opacity: 0;
+//   }
 
-  to {
-    -webkit-transform-origin: center;
-    transform-origin: center;
-    -webkit-transform: none;
-    transform: none;
-    opacity: 1;
-  }
-}
+//   to {
+//     -webkit-transform-origin: center;
+//     transform-origin: center;
+//     -webkit-transform: none;
+//     transform: none;
+//     opacity: 1;
+//   }
+// }
 
 @keyframes rotateIn {
   from {
     -webkit-transform-origin: center;
     transform-origin: center;
-    -webkit-transform: rotate3d(0, 0, 1, -200deg);
-    transform: rotate3d(0, 0, 1, -200deg);
+    -webkit-transform: rotate3d(0, 0, 1, -360deg);
+    transform: rotate3d(0, 0, 1, -360deg);
     opacity: 0;
   }
 
