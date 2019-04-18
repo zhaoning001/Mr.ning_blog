@@ -71,7 +71,7 @@ gems:
 
 jekyll-mentions:
     # base_url: ;
-    base_url: ;  #上传时候用的
+    base_url: /Mr.ning_blog ;  #上传时候用的
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
